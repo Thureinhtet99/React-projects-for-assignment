@@ -1,0 +1,9 @@
+.taskBox:hover {
+  background: #f8f9fa;
+  cursor: pointer;
+}
+
+.doneTask {
+  color: black;
+  cursor: pointer;
+}

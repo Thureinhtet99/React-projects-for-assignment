@@ -1,0 +1,10 @@
+Todo List
+
+Usage
+-JSON server (api, CRUD)
+-axios
+-react uuid
+
+Resource
+-GET => http://localhost:4000/todo-list
+

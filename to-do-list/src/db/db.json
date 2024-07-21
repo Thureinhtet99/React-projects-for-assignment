@@ -1,0 +1,19 @@
+{
+  "todo-list": [
+    {
+      "id": "53ee7235-4470-4669-7fcc-c9538f9e2705",
+      "taskName": "eat",
+      "done": true
+    },
+    {
+      "id": "dd9a1449-2866-1118-3aa6-fb50a9542545",
+      "taskName": "sleep",
+      "done": true
+    },
+    {
+      "id": "fb02a2b0-82a3-838f-2968-73dc9e63c9b5",
+      "taskName": "repeat",
+      "done": true
+    }
+  ]
+}

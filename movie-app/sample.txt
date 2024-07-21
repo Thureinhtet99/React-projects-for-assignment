@@ -1,0 +1,20 @@
+API fetch
+
+redux
+
+User info
+
+---Redux---
+UI > user event > action > reducer > store > state > UI (provider => react + redux)
+Data carry => action(type, payload{data})
+
+api_key=811d3b2782864e5b759edd0570ee6b2e
+
+https://image.tmdb.org/t/p/w500/MOVIE_PATH
+
+axios
+
+API Read Access Token = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4MTFkM2IyNzgyODY0ZTViNzU5ZWRkMDU3MGVlNmIyZSIsIm5iZiI6MTcyMDU0MjQ2Ny4xODkyMTQsInN1YiI6IjY1ZjEzMWQwZWVhMzRkMDE4ODEzMmY5ZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.7oJx7D33LYxOqfM0pFOAlwCSc332H_29BCc0sNVwwN0
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=811d3b2782864e5b759edd0570ee6b2e
+https://api.themoviedb.org/3/search/movie?query='flash'&api_key=811d3b2782864e5b759edd0570ee6b2e

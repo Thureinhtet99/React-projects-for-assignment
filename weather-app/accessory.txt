@@ -1,0 +1,5 @@
+fontawesome
+mui icons
+bootstrap
+API : https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+API key : f65706d4444f05dddd2991d92f409db0
